@@ -11,6 +11,8 @@ Vragen of suggesties kunt u naar [info@doeltaal-leertaal.nl](mailto://info@doelt
 
 Deze website is nog in aanbouw.
 
+[ga naar test](./test.md)
+
 
 <script>
 
