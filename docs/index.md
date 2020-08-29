@@ -4,14 +4,12 @@ title: Doeltaal Leertaal
 
 ![Doeltaal Leertaal](./bookcover.png)
 
-Vragen of suggesties kunt u naar [info@doeltaal-leertaal.nl](mailto://info@doeltaal-leertaal.nl) sturen.
+Heeft u vragen? Mail naar [info@doeltaal-leertaal.nl](mailto://info@doeltaal-leertaal.nl).
 
 
 ---
 
 Deze website is nog in aanbouw.
-
-[ga naar test](./test.md)
 
 
 <script>
