@@ -50,6 +50,15 @@
 
 document.getElementById("header").remove();
 
+
+for(let j of document.getElementsByTagName("section")) {
+	j.style.max_width = "1000px";
+}
+
+for(let j of document.getElementsByClassName(".wrapper")) {
+	j.style.max_width = "1000px";
+}
+
 function remove_subtitle() {
 	for(let i = 0; i < 10; i++) {
 		for(let j of document.getElementsByClassName("credits")) {
