@@ -3,10 +3,10 @@
 <img src="AFBDTLT.png" id="image">
 <style>
 #image {
-	position: fixed;
-	transform: scale(0.4, 0.4);
-	right: -160px;
-	top: -50px;	
+    position: absolute;
+    transform: scale(0.3, 0.3);
+    right: -150px;
+    top: -50px;
 }
 	
 </style>
