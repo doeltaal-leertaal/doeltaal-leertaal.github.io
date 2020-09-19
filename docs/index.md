@@ -8,7 +8,10 @@ Heeft u vragen? Mail naar [info@doeltaal-leertaal.nl](mailto://info@doeltaal-lee
 
 <br>
 
-* [Over Doeltaal-Leertaal](./achtergrondinformatie)
+* [Home](/)
+* [Over Doeltaal-Leertaal](/achtergrondinformatie)
+* [Cursussen](/cursussen)
+* [Links en werkvormen](/linksenwerkvormen)
 
 ---
 
