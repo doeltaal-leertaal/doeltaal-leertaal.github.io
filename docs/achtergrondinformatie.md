@@ -1,6 +1,6 @@
 # Achtergrondinformatie
 
-<img src="Afbeelding_DTLT_op_achtergrondpagina_site.png" id="image"></img>
+<img src="AFBDTLT.png" id="image"></img>
 <style>
 #image {
 		
