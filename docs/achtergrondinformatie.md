@@ -4,9 +4,9 @@
 <style>
 #image {
 	position: fixed;
-	scale: 0.4;
+	transform: scale(0.4, 0.4);
 	right: -160px;
-top: -50px;	
+	top: -50px;	
 }
 	
 </style>
