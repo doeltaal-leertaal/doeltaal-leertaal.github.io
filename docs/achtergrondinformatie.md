@@ -11,6 +11,9 @@
 	
 </style>
 
+<br>
+<br>
+<br>
 
 <p><strong>Wat is Doeltaal-<em>Leertaal</em>?</strong></p>
 <p>Hoewel het voor de hand ligt om te denken dat leerlingen veel leren van doeltaalgebruik, is dit een veronderstelling met veel kanttekeningen. Leren is namelijk meestal een nogal traag proces dat aandacht, focus en veel activiteit van de leerling vergt. Als je je dan bedenkt hoe ‘vluchtig’ communicatie in het algemeen is, is het maar zeer de vraag of leerlingen zomaar taal leren in een klas waar (vaak merendeels door de docent) in de doeltaal gecommuniceerd wordt. Ga maar eens na: hoeveel Nederlands leert een leerling eigenlijk in de les Geschiedenis, als gevolg van het feit dat men daar Nederlands spreekt? Of hoeveel Engels leerde je <em>bij</em> tijdens die Engelse lezing waar je met je Duitse buurman even iets in het Engels moest overleggen? (en dan zijn wij nog talendocenten, geïnteresseerd in talen&#8230;)</p>
