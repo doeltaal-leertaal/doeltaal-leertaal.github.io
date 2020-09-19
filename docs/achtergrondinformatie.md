@@ -1,6 +1,12 @@
 # Achtergrondinformatie
 
-
+<img src="Afbeelding_DTLT_op_achtergrondpagina_site.png" id="image"></img>
+<style>
+#image {
+		
+}
+	
+</style>
 
 
 <p><strong>Wat is Doeltaal-<em>Leertaal</em>?</strong></p>
