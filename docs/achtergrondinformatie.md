@@ -61,8 +61,7 @@ Heb je interesse voor een cursus Doeltaal-Leertaal bij jou op school? Neem dan c
 
 * Als je meer wilt weten over de inzet van taaltaken, doeltaalgebruik en ICT in het vreemdetalenonderwijs lees dan: 
     * Guchte, van de, M. (2020). ICT niet alleen voor de leuk. In <a href="https://shop.coutinho.nl/store_nl/handboek-vreemdetalendidactiek.html">Dönszelmann, S., Beuningen van, C., Kaal, A. &amp; Graaff de, R. (2020). <em>Handboek Vreemdetaledidactiek; vertrekpunten, vaardigheden en vakinhoud</em>. Bussum: Coutinho</a>.
-<p>Of:
-
+<br>
     * Guchte, van de, M. &amp; Rijlaarsdam G. (2018). <a href="http://www.lt-tijdschriften.nl/ojs/index.php/ltt/article/view/1889">Chatten in taakgericht mvt-onderwijs: Effect op doeltaalgebruik en ervaringen van leerlingen</a>. Levende Talen Tijdschrift, 19(4), 3-14.
 
 ### Werkvormen
