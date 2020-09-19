@@ -4,8 +4,11 @@ title: Doeltaal Leertaal
 
 ![Doeltaal Leertaal](./bookcover.png)
 
-Heeft u vragen? Mail naar [info@doeltaal-leertaal.nl](mailto://info@doeltaal-leertaal.nl).
+Heeft u vragen? Mail naar [info@doeltaal-leertaal.nl](mailto://info@doeltaal-leertaal.nl).  
 
+<br>
+
+* [Over Doeltaal-Leertaal](./achtergrondinformatie)
 
 ---
 
