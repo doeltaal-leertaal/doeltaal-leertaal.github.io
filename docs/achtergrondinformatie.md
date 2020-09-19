@@ -1,9 +1,12 @@
 # Achtergrondinformatie
 
-<img src="AFBDTLT.png" id="image"></img>
+<img src="AFBDTLT.png" id="image">
 <style>
 #image {
-		
+	position: fixed;
+	scale: 0.4;
+	right: -160px;
+top: -50px;	
 }
 	
 </style>
