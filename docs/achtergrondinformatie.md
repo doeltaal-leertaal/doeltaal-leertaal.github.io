@@ -27,6 +27,25 @@
 <p>Heb je interesse voor een cursus Doeltaal-Leertaal bij jou op school? Neem dan contact op met Sebastiaan Dönszelmann (<a href="mailto:info@onderwijstraining.eu">info@onderwijstraining.eu</a>)</p>
 <p><strong><u>Achtergrond</u></strong></p>
 
+<p>Als je bondige informatie zoekt over Doeltaal-Leertaal:</p>
+<p>Dönszelmann, S. (2018). Doeltaal-Leertaal. <a href="http://www.lt-tijdschriften.nl/ojs/index.php/ltm/article/view/1814">Over bibberen aan de rand van het taalbad en het docenten-taalbewustzijn.</a> In J. Bloemert, K. de Glopper, W. Lowie, C. Ravesloot, K. van Veen &amp; J. Graus (red.), Vakdidactisch onderzoek en de onderwijspraktijk (36-39). Utrecht: Levende Talen.</p>
+<p>Als je meer wilt weten over de kenmerken van Doeltaal-Leertaal en de didactische ontwikkeling van de groep docenten die deelnamen aan het onderzoek:</p>
+<p>Dönszelmann, S., Kaal, A., Beishuizen, J., &amp; Graaff, R. de. (2016). <a href="http://www.lt-tijdschriften.nl/ojs/index.php/ltt/article/view/1626">Doeltaal Leertaal: Een didactiek en een professionaliseringstraject</a>. <em>Levende Talen Tijdschrift</em>, 17(3), 35–45.</p>
+<p>Als je wilt lezen over het effect van de Doeltaal-Leertaaldidactiek op de leerresultaten van leerlingen:</p>
+<p>Dönszelmann, S., Kaal, A., Graaff, R. de &amp; Beishuizen, J. (2019). <a href="http://www.lt-tijdschriften.nl/ojs/index.php/ltt/article/view/2030">Doeltaal-Leertaal; de invloed van een concrete doeltaaldidactiek op vaardigheidsprestaties in de reguliere mvt-les</a>. <em>Levende Talen Tijdschrift, 20-4 </em>(2-12).</p>
+<p>Als je je uitgebreid wilt informeren over Doeltaal-Leertaal, veel handreikingen zoekt en alles wilt weten over de achtergrond van het onderzoek, de grote groep deelnemende docenten en de bijbehorende effectstudie onder docenten en leerlingen:</p>
+<p>Dönszelmann, S. (2019). <a href="https://research.vu.nl/ws/portalfiles/portal/85140826/complete+dissertation.pdf"><em>Doeltaal-Leertaal: Didactiek, professionalisering en leereffecten. </em>Proefschrift.</a> Vrije Universiteit Amsterdam. Almere: Parthenon.</p>
+<p>Als je meer wilt weten over de vreemdetalendidactiek in de breedte (dus over Doeltaal-Leertaal en Taakgericht talenonderwijs, maar ook over Luistervaardigheidsdidactiek, Toetsen, Intercultureel talenonderwijs of Taalbewustzijn) neem dan eens een kijkje in het nieuwe Handboek Vreemdetalendidactiek: <a href="https://shop.coutinho.nl/store_nl/handboek-vreemdetalendidactiek.html">Dönszelmann, S., Beuningen van, C., Kaal, A.A. &amp; Graaff de, R. (2020). <em>Handboek Vreemdetaledidactiek; vertrekpunten, vaardigheden en vakinhoud</em>. Bussum: Coutinho</a>.</p>
+<p>Als je meer wilt weten over de inzet van taaltaken en ICT in het vreemdetalenonderwijs lees dan het hoofdstuk. Guchte, van de, M. (2020). ICT niet alleen voor de leuk. In <a href="https://shop.coutinho.nl/store_nl/handboek-vreemdetalendidactiek.html">Dönszelmann, S., Beuningen van, C., Kaal, A. &amp; Graaff de, R. (2020). <em>Handboek Vreemdetaledidactiek; vertrekpunten, vaardigheden en vakinhoud</em>. Bussum: Coutinho</a>.</p>
+<p>Of:</p>
+<p>Guchte, van de, M. &amp; Rijlaarsdam G. (2018). <a href="http://www.lt-tijdschriften.nl/ojs/index.php/ltt/article/view/1889">Chatten in taakgericht mvt-onderwijs: Effect op doeltaalgebruik en ervaringen van leerlingen</a>. Levende Talen Tijdschrift, 19(4), 3-14.</p>
+<p><strong><u>Werkvormen</u></strong></p>
+<p>Vanzelfsprekend kun je op de pagina’s van Doeltaal Digitaal al allerlei werkvormen vinden die eraan bijdragen dat de doeltaal actief en leerzaam wordt toegepast. Zoek je nog meer werkvormen? Klik dan op onderstaande links naar werkvormen op deze site die aansluiten bij of voortkomen uit het Doeltaal-Leertaalonderzoek.</p>
+<p><a href="https://taalwijs.nu/lesmateriaal/tekenen-bespreken-en-beschrijven-direct-beschikbaar/">Tekenen, bespreken en beschrijven</a></p>
+<p><a href="https://taalwijs.nu/lesmateriaal/inductie-hoe-doe-je-dat-direct-beschikbaar/">“Sta op als…”; Inductie en doeltaal, hoe doe je dat?</a></p>
+<p><a href="https://taalwijs.nu/lesmateriaal/zeichnen-2-0-voor-duits-en-andere-mvt/">Zeichnen 2.0 (Duits/MVT)</a></p>
+<p><a href="https://taalwijs.nu/lesmateriaal/taalleerbewustzijn-op-vakdidactisch-avontuur-met-je-leerlingen/">Taalleerbewustzijn – Op (vakdidactisch) avontuur met je leerlingen!</a></p>
+
 <script>
 
 document.getElementById("header").remove();
