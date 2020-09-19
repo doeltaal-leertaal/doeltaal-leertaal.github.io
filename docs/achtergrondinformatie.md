@@ -37,10 +37,10 @@
 <p><strong>Samenhang tussen Doeltaal-Leertaal en Doeltaal Digitaal</strong></p>
 
 
-<p><strong><u>Cursussen</u></strong></p>
-<p>Heb je interesse voor een cursus Doeltaal-Leertaal bij jou op school? Neem dan contact op met Sebastiaan Dönszelmann (<a href="mailto:info@doeltaal-leertaal.nl">info@doeltaal-leertaal.nl</a>)</p>
+### Cursussen
+Heb je interesse voor een cursus Doeltaal-Leertaal bij jou op school? Neem dan contact op met Sebastiaan Dönszelmann (<a href="mailto:info@doeltaal-leertaal.nl">info@doeltaal-leertaal.nl</a>)
 
-# Verder lezen
+### Verder lezen
 
 Als je bondige informatie zoekt over Doeltaal-Leertaal:
 
@@ -63,13 +63,13 @@ Als je bondige informatie zoekt over Doeltaal-Leertaal:
 
 * Guchte, van de, M. &amp; Rijlaarsdam G. (2018). <a href="http://www.lt-tijdschriften.nl/ojs/index.php/ltt/article/view/1889">Chatten in taakgericht mvt-onderwijs: Effect op doeltaalgebruik en ervaringen van leerlingen</a>. Levende Talen Tijdschrift, 19(4), 3-14.
 
-# Werkvormen
+### Werkvormen
 	
 Heb je interesse voor ... ... ... Vanzelfsprekend kun je op de pagina’s van Doeltaal Digitaal al allerlei werkvormen vinden die eraan bijdragen dat de doeltaal actief en leerzaam wordt toegepast. Zoek je nog meer werkvormen? Klik dan op onderstaande links naar werkvormen op deze site die aansluiten bij of voortkomen uit het Doeltaal-Leertaalonderzoek.
-<p><a href="https://taalwijs.nu/lesmateriaal/tekenen-bespreken-en-beschrijven-direct-beschikbaar/">Tekenen, bespreken en beschrijven</a></p>
-<p><a href="https://taalwijs.nu/lesmateriaal/inductie-hoe-doe-je-dat-direct-beschikbaar/">“Sta op als…”; Inductie en doeltaal, hoe doe je dat?</a></p>
-<p><a href="https://taalwijs.nu/lesmateriaal/zeichnen-2-0-voor-duits-en-andere-mvt/">Zeichnen 2.0 (Duits/MVT)</a></p>
-<p><a href="https://taalwijs.nu/lesmateriaal/taalleerbewustzijn-op-vakdidactisch-avontuur-met-je-leerlingen/">Taalleerbewustzijn – Op (vakdidactisch) avontuur met je leerlingen!</a></p>
+* <a href="https://taalwijs.nu/lesmateriaal/tekenen-bespreken-en-beschrijven-direct-beschikbaar/">Tekenen, bespreken en beschrijven</a>
+* <a href="https://taalwijs.nu/lesmateriaal/inductie-hoe-doe-je-dat-direct-beschikbaar/">“Sta op als…”; Inductie en doeltaal, hoe doe je dat?</a>
+* <a href="https://taalwijs.nu/lesmateriaal/zeichnen-2-0-voor-duits-en-andere-mvt/">Zeichnen 2.0 (Duits/MVT)</a>
+* <a href="https://taalwijs.nu/lesmateriaal/taalleerbewustzijn-op-vakdidactisch-avontuur-met-je-leerlingen/">Taalleerbewustzijn – Op (vakdidactisch) avontuur met je leerlingen!</a>
 
 <script>
 
