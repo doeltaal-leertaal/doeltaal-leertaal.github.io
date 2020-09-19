@@ -1,4 +1,19 @@
+<a href=".."><img src="AFBDTLT.png" id="image"></a>
+<style>
+#image {
+    position: absolute;
+    transform: scale(0.3, 0.3);
+    right: -150px;
+    top: 0px;
+}
 
+@media only screen and (max-width: 600px) {
+  #image {
+  	display: none;
+  }
+}
+	
+</style>
 
 
 
