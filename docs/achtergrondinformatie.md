@@ -17,8 +17,10 @@
 	
 </style>
 
-* [Home](..)
-<br>
+* [Home](/)
+* [Over Doeltaal-Leertaal](/achtergrondinformatie)
+* [Cursussen](/cursussen)
+* [Links en werkvormen](/linksenwerkvormen)
 <br>
 <br>
 
