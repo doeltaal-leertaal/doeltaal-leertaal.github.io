@@ -55,7 +55,7 @@ for(let j of document.getElementsByTagName("section")) {
 	j.style.maxWidth = "1000px";
 }
 
-for(let j of document.getElementsByClassName(".wrapper")) {
+for(let j of document.getElementsByClassName("wrapper")) {
 	j.style.maxWidth = "1000px";
 }
 
