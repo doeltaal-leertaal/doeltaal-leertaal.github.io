@@ -52,11 +52,11 @@ document.getElementById("header").remove();
 
 
 for(let j of document.getElementsByTagName("section")) {
-	j.style.max_width = "1000px";
+	j.style.maxWidth = "1000px";
 }
 
 for(let j of document.getElementsByClassName(".wrapper")) {
-	j.style.max_width = "1000px";
+	j.style.maxWidth = "1000px";
 }
 
 function remove_subtitle() {
