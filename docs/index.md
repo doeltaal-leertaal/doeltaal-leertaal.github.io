@@ -33,3 +33,6 @@ function remove_subtitle() {
 
 remove_subtitle();
 </script>
+
+google-site-verification=lUSuMtU991Dq9E9n_Lz-XopeDoflm0Oc5a-ONyQCeOc 
+
