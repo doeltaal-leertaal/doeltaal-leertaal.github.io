@@ -28,9 +28,11 @@ function remove_subtitle() {
 remove_subtitle();
 </script>
 
-<br>
-<br>
-<br>
+
+* [Home](/)
+* [Over Doeltaal-Leertaal](/achtergrondinformatie)
+* [Cursussen](/cursussen)
+* [Links en werkvormen](/linksenwerkvormen)
 <br>
 <br>
 <br>
