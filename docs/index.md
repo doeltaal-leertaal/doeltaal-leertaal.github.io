@@ -42,5 +42,3 @@ function remove_subtitle() {
 
 remove_subtitle();
 </script>
-
-i
