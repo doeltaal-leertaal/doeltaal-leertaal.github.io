@@ -1,6 +1,6 @@
 # Achtergrondinformatie
 
-<a href=".."><img src="AFBDTLT.png" id="image"></a>
+<a href=".."><img src="images/AFBDTLT.png" id="image"></a>
 <style>
 #image {
     position: absolute;

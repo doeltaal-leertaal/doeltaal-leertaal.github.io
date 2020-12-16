@@ -2,7 +2,7 @@
 title: Doeltaal Leertaal
 ---
 
-![Doeltaal Leertaal](./bookcover.png)
+![Doeltaal Leertaal](images/bookcover.png)
 
 Heeft u vragen? Mail naar [info@doeltaal-leertaal.nl](mailto://info@doeltaal-leertaal.nl).  
 
@@ -34,5 +34,4 @@ function remove_subtitle() {
 remove_subtitle();
 </script>
 
-google-site-verification=lUSuMtU991Dq9E9n_Lz-XopeDoflm0Oc5a-ONyQCeOc 
-
+i
