@@ -28,6 +28,12 @@ function remove_subtitle() {
 remove_subtitle();
 </script>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Iedere vreemdetalendocent kan de doeltaal leerzaam leren inzetten. Alleen, effectief doeltaalgebruik vergt wel didactische kennis, oefening én taalbewustzijn. Dat laatste houdt in dat de docent tijdens het gebruik van de doeltaal veelvuldig en bewust strategieën inzet om met behulp van zijn taalgebruik de leerlingen meteen van alles te laten leren. Het aanleren van deze strategieën, de lessen ermee voorbereiden en evalueren is aan het begin niet eenvoudig. Ben je eenmaal bekend met, én geoefend in, die strategieën, dan wil je niet meer zonder en vraag je je af waarom je vroeger ‘zomaar intuïtief de doeltaal gebruikte’. 
 
